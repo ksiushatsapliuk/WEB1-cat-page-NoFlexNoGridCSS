@@ -13,7 +13,7 @@ html, body {
 
 body, ul {
   margin: 0;
-  padding: 15px;
+  padding: 0;
   background: linear-gradient(135deg, #F5E8FF 0%, #FFE8F8 100%);
 }
 
@@ -587,3 +587,4 @@ col:nth-child(3) {
     font-size: 12px;
   }
 }
+
